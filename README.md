@@ -107,8 +107,13 @@ Pandas
 NumPy
 Google Maps
 📈 Dashboard Preview
+<img width="1157" height="651" alt="Restaurant 2" src="https://github.com/user-attachments/assets/b81f0977-00f9-4431-97bd-b78fa2b69fa1" />
+<img width="1157" height="645" alt="Restaurant 1" src="https://github.com/user-attachments/assets/60e33997-7a8a-4abc-9141-78418a063a54" />
+<img width="1157" height="647" alt="Beauty_salon_2" src="https://github.com/user-attachments/assets/6acf8d2f-1c8d-4579-8a30-f472ab45650e" />
+<img width="1155" height="645" alt="Beauty_salon_1" src="https://github.com/user-attachments/assets/8a595761-9653-4722-8053-68de72e0ee5f" />
 
-Add screenshots of your dashboards in the Images folder.
+
+
 
 📁 Repository Structure
 Data/
